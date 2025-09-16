@@ -37,7 +37,7 @@ To install `Conda`/`mamba` you will need to do the following:
  - Install `mamba` according to the instructions [here](https://github.com/conda-forge/miniforge#install)
  - To add `mamba`/`conda` to your shell, follow the instructions after the installation and execute
 ```bash
-mamba init
+mamba shell init
 ```
 
 
